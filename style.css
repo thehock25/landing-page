@@ -1,0 +1,43 @@
+header{
+    background-color: #2c415f;
+}
+.header-title{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+    text-align: center;
+}
+.header-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+ul{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+h2{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.header-button{
+    background-color: #3882f6;
+    color: #F9FAF8;
+}
+.info-title{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+.inspiring-quote{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color:#1f2937;
+}
+footer{
+    background-color: #3882f6;
+}
+.copyright{
+    background-color: #2c415f;
+    color: #F9FAF8;
+}
